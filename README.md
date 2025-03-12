@@ -1,4 +1,21 @@
-![Image](https://i.pinimg.com/originals/12/9a/22/129a225b3f3d0659428d6d7d53fc21ac.gif)
-# Anda Sedang Melihat Github Raja Iblis😈
-![SoExcited~GIF](https://github.com/user-attachments/assets/60fbf98c-16ba-41d3-ba05-d14a6ce66c71)
-# Reaksi Kalian
+# 💫 About Me:
+🌱 I’m currently learn Java and C<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arsyaa16._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arielardiansyah050316@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vanzaaa04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vanzaaa04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanzaaa04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vanzaaa04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vanzaaa04&icon=6&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
